@@ -1,0 +1,18 @@
+{
+  "@@locale": "id",
+  "addedToFavoriteText": "Pokemon ditambahkan ke favorite!",
+  "cancel": "Batalkan",
+  "darkMode": "Mode Gelap",
+  "deleteConfirmationText": "Kamu yakin untuk mengpus pokemon ini?",
+  "deletedPokemonText": "Pokemon dihapus!",
+  "errorLoadingDataText": "Terjadi kesalahan saat memuat data!",
+  "errorUnkownText": "Terjadi kesalahan!",
+  "home": "Beranda",
+  "language": "Bahasa",
+  "myFavorite": "Favorit Saya",
+  "pokemonNotFound": "Pokemon kosong",
+  "retry": "Coba lagi?",
+  "search": "Cari",
+  "settings": "Pengaturan",
+  "yes": "Ya"
+}

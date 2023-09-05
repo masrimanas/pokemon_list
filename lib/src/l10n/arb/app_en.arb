@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "addedToFavoriteText": "Pokemon added to favoriteI",
+  "cancel": "Cancel",
+  "darkMode": "Dark Mode",
+  "deleteConfirmationText": "Are you sure you want delete this pokemon?",
+  "deletedPokemonText": "Pokemon deleted!",
+  "errorLoadingDataText": "Error occured while loading data!",
+  "errorUnkownText": "Unknown error occured!",
+  "home": "Home",
+  "language": "Language",
+  "myFavorite": "My Favorite",
+  "pokemonNotFound": "Pokemon fot found",
+  "retry": "Retry?",
+  "search": "Search",
+  "settings": "Settings",
+  "yes": "Yes"
+}

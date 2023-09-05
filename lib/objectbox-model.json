@@ -1,0 +1,69 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "2:4520612384885219545",
+      "lastPropertyId": "7:3319510997253156703",
+      "name": "PokemonDbModel",
+      "properties": [
+        {
+          "id": "1:1105848525521994094",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1827342437324306602",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:3246427860203060617",
+          "name": "url",
+          "type": 9
+        },
+        {
+          "id": "4:4447595994154311724",
+          "name": "imageUrl",
+          "type": 9
+        },
+        {
+          "id": "7:3319510997253156703",
+          "name": "uid",
+          "type": 6,
+          "flags": 8,
+          "indexId": "3:6488722965367251632"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "4:2975831865991129110",
+  "lastIndexId": "3:6488722965367251632",
+  "lastRelationId": "1:2814779473208365578",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    123253982946046615,
+    3724250093645832150,
+    2975831865991129110
+  ],
+  "retiredIndexUids": [
+    5780234799847486324,
+    7212558950260821499
+  ],
+  "retiredPropertyUids": [
+    7803740971969820744,
+    5206959528753315216,
+    9181552408696414707,
+    6108602974915505451,
+    1109531952728367012
+  ],
+  "retiredRelationUids": [
+    2814779473208365578
+  ],
+  "version": 1
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>404283293986-4pohsv1n62e303bbl7f9blg56uedlu24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.404283293986-4pohsv1n62e303bbl7f9blg56uedlu24</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhFyfwCfwzVbdCeR-o7TYWwYP0hpXQDR8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>404283293986</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.masrimanas.pokemon-list</string>
+	<key>PROJECT_ID</key>
+	<string>m2plist</string>
+	<key>STORAGE_BUCKET</key>
+	<string>m2plist.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:404283293986:ios:b19d743a2a90ed4179257b</string>
+</dict>
+</plist>
